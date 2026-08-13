@@ -34,7 +34,9 @@ https://github.com/user-attachments/assets/6ba1e2e1-2e64-4142-8f8a-248e72e78b16
   - Access the download link: https://www.sofa-framework.org/download/
   - Download the OS-compatible version (Make sure to follow the installation instruction):
     <img width="1908" height="914" alt="image" src="https://github.com/user-attachments/assets/79afd18e-2adc-4e57-9912-677fb4ced4ec" />
+    <p align="center">
     <em>Figure 2: Main download interface </em>
+    <p></p>
   - Open the .exe file and run with administrator
 
     <img width="1133" height="66" alt="image" src="https://github.com/user-attachments/assets/37e32a0e-7b02-46f9-891a-fd869d2774f4" />
