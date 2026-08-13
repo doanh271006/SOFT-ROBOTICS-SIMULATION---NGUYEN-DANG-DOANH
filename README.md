@@ -165,3 +165,8 @@ xychart-beta
     y-axis "Bending Angle (°)" 0 --> 80
     bar [65, 40, 15]
     line [65, 40, 15]
+```
+## 11. Model Limitations
+* **No Physical Interaction (Collision):** The current model does not prevent self-collision if the finger is bent excessively.
+* **Cable Simplification:** The cable is simulated ideally, ignoring friction between the cable and the internal cavities of the finger wall.
+* **Design Constraints:** The finger is a solid block, lacking the bellows structure commonly seen in reality to optimize the bending angle.
