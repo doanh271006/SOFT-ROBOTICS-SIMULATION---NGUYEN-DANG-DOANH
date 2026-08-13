@@ -137,3 +137,31 @@ Below is a summary table of the key system parameters used in the simulation pro
 | `max_pull` | `AutoFlexController` | 40.0 | mm | Maximum cable pull displacement of the actuator |
 | `gravity` | `Scene` | [0.0, -9810.0, 0.0] | mm/s² | Gravitational acceleration along the -Y axis |
 | `dt` | `Scene` | 0.01 | s | Time step size for simulation computation |
+
+## 10. Parameter Study Results (Stiffness E Study)
+
+Investigating the effect of **Material Stiffness (`youngModulus`)** on the deformation capacity and bending angle of the soft finger while keeping the maximum cable pull stroke constant at **40 mm**[cite: 2].
+
+Executing the simulation with 3 different stiffness values (`youngModulus`)[cite: 2]:
+
+### Experimental Results Table
+
+| No. | Code Value (`youngModulus`) | Equivalent Stiffness | Material State | Observed Deformation Characteristics | Bending Degree Assessment |
+| :---: | :---: | :---: | :--- | :--- | :---: |
+| **1** | **`150`** | **150 kPa** | Very soft | Deepest bending at the finger body, segments bend clearly | **Very Large (~65°)** |
+| **2** | **`400`** | **400 kPa** | Default (Medium) | Moderate bending, maintains geometric shape well | **Medium (~40°)** |
+| **3** | **`1000`** | **1000 kPa** | Stiff | Slight bending, deformation capacity is highly restricted | **Small (~15°)** |
+
+---
+
+### Parameter Study Graph
+
+Below is the graph visualizing the inverse relationship between the material stiffness and the resulting bending angle of the soft finger[cite: 2].
+
+```mermaid
+xychart-beta
+    title "Bending Angle vs Material Stiffness"
+    x-axis "Young's Modulus (kPa)" ["150 (Soft)", "400 (Default)", "1000 (Stiff)"]
+    y-axis "Bending Angle (°)" 0 --> 80
+    bar [65, 40, 15]
+    line [65, 40, 15]
