@@ -19,6 +19,7 @@ https://github.com/user-attachments/assets/6ba1e2e1-2e64-4142-8f8a-248e72e78b16
 <p align="center">
    <em>Figure 1: Curling robotic finger </em>
   <p></p>
+  
 ## 4. Software and Library Versions
 * **Python**: 3.12.1
 - **SOFA**: v26.06 
