@@ -140,9 +140,9 @@ Below is a summary table of the key system parameters used in the simulation pro
 
 ## 10. Parameter Study Results 
 
-Investigating the effect of **Material Stiffness (`youngModulus`)** on the deformation capacity and bending angle of the soft finger while keeping the maximum cable pull stroke constant at **40 mm**[cite: 2].
+Investigating the effect of **Material Stiffness (`youngModulus`)** on the deformation capacity and bending angle of the soft finger while keeping the maximum cable pull stroke constant at **40 mm**.
 
-Executing the simulation with 3 different stiffness values (`youngModulus`)[cite: 2]:
+Executing the simulation with 3 different stiffness values (`youngModulus`):
 
 ### Experimental Results Table
 
