@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/6ba1e2e1-2e64-4142-8f8a-248e72e78b16
      <em>Picture 6&7: Downloading steps </em>
   <p></p>
 2. Clone this repository to your local machine:
-   [https://github.com/doanh271006/SOFT-ROBOTIC-SIMULATION---NGUYEN-DANG-DOANH.git](https://github.com/doanh271006/SOFT-ROBOTICS-SIMULATION---NGUYEN-DANG-DOANH.git)
+   (https://github.com/doanh271006/SOFT-ROBOTICS-SIMULATION---NGUYEN-DANG-DOANH.git)
 
 ## 6. Execution Commands
   - Run SOFA
