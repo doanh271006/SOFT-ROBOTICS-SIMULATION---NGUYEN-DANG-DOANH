@@ -138,7 +138,7 @@ Below is a summary table of the key system parameters used in the simulation pro
 | `gravity` | `Scene` | [0.0, -9810.0, 0.0] | mm/s² | Gravitational acceleration along the -Y axis |
 | `dt` | `Scene` | 0.01 | s | Time step size for simulation computation |
 
-## 10. Parameter Study Results (Stiffness E Study)
+## 10. Parameter Study Results 
 
 Investigating the effect of **Material Stiffness (`youngModulus`)** on the deformation capacity and bending angle of the soft finger while keeping the maximum cable pull stroke constant at **40 mm**[cite: 2].
 
