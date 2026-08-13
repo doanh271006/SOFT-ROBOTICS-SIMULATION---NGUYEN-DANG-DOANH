@@ -158,3 +158,7 @@ Executing the simulation with 3 different stiffness values (`youngModulus`):
 * **No Physical Interaction (Collision):** The current model does not prevent self-collision if the finger is bent excessively.
 * **Cable Simplification:** The cable is simulated ideally, ignoring friction between the cable and the internal cavities of the finger wall.
 * **Design Constraints:** The finger is a solid block, lacking the bellows structure commonly seen in reality to optimize the bending angle.
+* **Ideal Actuation Assumptions:** The simulation assumes an idealized cable pull with instantaneous response and infinite force. It does not account for the electromechanical constraints of a real actuator system, such as motor torque limits, inertia, or signal delays within the physical control loop.
+**Future Developments:**
+* **Physical Prototyping:** Transition from simulation to physical manufacturing using 3D printed molds to cast silicone, allowing for a direct comparison between the FEM simulation and real-world kinematic behavior.
+* **Controller Upgrade:** Implement a closed-loop control system to replace the current open-loop cosine function, enabling more precise trajectory tracking.
