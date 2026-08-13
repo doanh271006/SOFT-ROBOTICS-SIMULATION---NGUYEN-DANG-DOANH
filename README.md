@@ -154,18 +154,6 @@ Executing the simulation with 3 different stiffness values (`youngModulus`)[cite
 
 ---
 
-### Parameter Study Graph
-
-Below is the graph visualizing the inverse relationship between the material stiffness and the resulting bending angle of the soft finger[cite: 2].
-
-```mermaid
-xychart-beta
-    title "Bending Angle vs Material Stiffness"
-    x-axis "Young's Modulus (kPa)" ["150 (Soft)", "400 (Default)", "1000 (Stiff)"]
-    y-axis "Bending Angle (°)" 0 --> 80
-    bar [65, 40, 15]
-    line [65, 40, 15]
-```
 ## 11. Model Limitations
 * **No Physical Interaction (Collision):** The current model does not prevent self-collision if the finger is bent excessively.
 * **Cable Simplification:** The cable is simulated ideally, ignoring friction between the cable and the internal cavities of the finger wall.
