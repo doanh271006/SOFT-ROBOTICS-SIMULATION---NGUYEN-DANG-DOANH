@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/6ba1e2e1-2e64-4142-8f8a-248e72e78b16
 <p></p>
 <img width="1552" height="676" alt="image" src="https://github.com/user-attachments/assets/b8aecc3c-5ad2-469d-b566-a7e69b5029cd" />
 <p align="center">
-   <em>Picture: Curling robotic finger </em>
+   <em>Figure 1: Curling robotic finger </em>
   <p></p>
 ## 4. Software and Library Versions
 * **Python**: 3.12.1
@@ -34,13 +34,13 @@ https://github.com/user-attachments/assets/6ba1e2e1-2e64-4142-8f8a-248e72e78b16
   - Access the download link: https://www.sofa-framework.org/download/
   - Download the OS-compatible version (Make sure to follow the installation instruction):
     <img width="1908" height="914" alt="image" src="https://github.com/user-attachments/assets/79afd18e-2adc-4e57-9912-677fb4ced4ec" />
-    <em>Picture 2: Main download interface </em>
+    <em>Figure 2: Main download interface </em>
   - Open the .exe file and run with administrator
 
     <img width="1133" height="66" alt="image" src="https://github.com/user-attachments/assets/37e32a0e-7b02-46f9-891a-fd869d2774f4" />
 
     <p align="center">
-    <em>Picture 3: SOFA_v26.06.00_Win64.exe </em>
+    <em>Figure 3: SOFA_v26.06.00_Win64.exe </em>
       <p></p>
   - Click next and agree with the license agreement:
     
@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/6ba1e2e1-2e64-4142-8f8a-248e72e78b16
     
     <img width="620" height="484" alt="image" src="https://github.com/user-attachments/assets/5dffde45-c8d0-48fc-a844-71ef7dd4e54c" />
 <p align="center">
-     <em>Picture 4&5: Downloading interface </em>
+     <em>Figure 4&5: Downloading interface </em>
   <p></p>
   - Add SOFA to the system PATH for all users and create the icon
     <img width="617" height="475" alt="image" src="https://github.com/user-attachments/assets/b0dce299-cc32-4033-a3d6-4a726993492d" />
@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/6ba1e2e1-2e64-4142-8f8a-248e72e78b16
     
     <img width="612" height="478" alt="image" src="https://github.com/user-attachments/assets/fc60e17b-4e78-4991-b5e2-44ef3f0844eb" />
 <p align="center">
-     <em>Picture 6&7: Downloading steps </em>
+     <em>Figure 6&7: Downloading steps </em>
   <p></p>
 2. Clone this repository to your local machine:
    (https://github.com/doanh271006/SOFT-ROBOTICS-SIMULATION---NGUYEN-DANG-DOANH.git)
@@ -86,7 +86,7 @@ CMD Log
 <p></p>
   - Click the Play button at the top/ Press Space to start the simulation
 <p align="center">
-     <em>Picture 8-12: Simulation steps </em>
+     <em>Figure 8-12: Simulation steps </em>
   <p></p>
   
 ## 7. Source Code Structure (source code file: FingerwithSTLIB.py)
