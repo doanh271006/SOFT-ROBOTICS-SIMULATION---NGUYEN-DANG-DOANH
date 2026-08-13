@@ -113,6 +113,7 @@ The project is organized including the simulation scenario configuration file, c
 
 ### mesh:
   - Stores 3D geometric file formats for finite element calculation (.vtk) and graphic visualization (.stl).
+
 ## 8. Simulation Flowchart
 
 ```mermaid
