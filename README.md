@@ -1,4 +1,4 @@
-<img width="719" height="97" alt="image" src="https://github.com/user-attachments/assets/7eff9b02-4789-49c0-84e1-2c79531fe866" /># SOFT-ROBOTICS-SIMULATION---NGUYEN-DANG-DOANH
+SOFT-ROBOTICS-SIMULATION---NGUYEN-DANG-DOANH
 Soft robotics simulation using SOFA and SoftRobots
 
 ## 1. Simulation Objective
