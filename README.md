@@ -158,7 +158,11 @@ Executing the simulation with 3 different stiffness values (`youngModulus`):
 ---
 
 <p align="center">
+
+  
 https://github.com/user-attachments/assets/bafaed30-f510-4f3e-850a-a89ca9bb7271
+
+
 <p></p>
 
 <p align="center">
@@ -167,7 +171,11 @@ https://github.com/user-attachments/assets/bafaed30-f510-4f3e-850a-a89ca9bb7271
 
 
 <p align="center">
+
+  
 https://github.com/user-attachments/assets/c7b27b4f-c979-449c-8761-c6ba2582f76a
+
+
 <p></p>
 
 <p align="center">
@@ -175,7 +183,11 @@ https://github.com/user-attachments/assets/c7b27b4f-c979-449c-8761-c6ba2582f76a
 <p></p>
 
 <p align="center">
+
+  
 https://github.com/user-attachments/assets/57bd6e57-ca7f-4c67-8c00-9b1e7fe8fc9a
+
+
 <p></p>
 
 <p align="center">
