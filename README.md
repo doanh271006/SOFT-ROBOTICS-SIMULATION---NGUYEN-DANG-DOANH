@@ -193,6 +193,7 @@ https://github.com/user-attachments/assets/57bd6e57-ca7f-4c67-8c00-9b1e7fe8fc9a
 <p align="center">
   <em>Video 4: Simulational process of the robotic finger with 1000 kPa in stiffness</em>
 <p></p>
+
 ## 11. Model Limitations
 * **No Physical Interaction (Collision):** The current model does not prevent self-collision if the finger is bent excessively.
 * **Cable Simplification:** The cable is simulated ideally, ignoring friction between the cable and the internal cavities of the finger wall.
